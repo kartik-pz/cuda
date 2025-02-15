@@ -4,3 +4,6 @@
 *.ptx
 *.cubin
 *.fatbin
+check_gpu.cu
+exe
+*1y33.cu

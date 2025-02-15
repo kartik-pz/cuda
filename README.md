@@ -9,7 +9,7 @@ Mentor: https://github.com/hkproj/
 ## Day 1
 ### File: `vectadd.cu`
 **Summary:**  
-Implemented vector addition by writing a simple CUDA program. Explored how to launch a kernel to perform a parallelized addition of two arrays, where each thread computes the sum of a pair of values.  
+Implementing vector addition by writing a simple CUDA program. Explored how to launch a kernel to perform a parallelized addition of two arrays, where each thread computes the sum of a pair of values.  
 
 **Learned:**  
 - Basics of writing a CUDA kernel.
@@ -17,7 +17,6 @@ Implemented vector addition by writing a simple CUDA program. Explored how to la
 - How to allocate and manage device (GPU) memory using `cudaMalloc`, `cudaMemcpy`, and `cudaFree`.  
 
 ### Reading:  
-- Read **Chapter 1** of the PMPP book.  
-  - Learned about the fundamentals of parallel programming, CUDA architecture, and the GPU execution model.
+- Read **Chapter 1,2,3** of the PMPP book.
 
 ---
